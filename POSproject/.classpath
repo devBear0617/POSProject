@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry kind="src" path="src"/>
-<<<<<<< HEAD
-	<classpathentry kind="lib" path="D:/Project/자료/jlayer1.0.1/JLayer1.0.1/jl1.0.1.jar"/>
-=======
-	<classpathentry kind="lib" path="C:/apps/JLayer1.0.1/jl1.0.1.jar"/>
->>>>>>> branch 'master' of https://github.com/devBear0617/POSProject.git
+	<classpathentry kind="src" path=""/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/Project/자료/jlayer1.0.1/JLayer1.0.1/jl1.0.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
