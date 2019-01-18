@@ -6,6 +6,7 @@ import java.awt.GridLayout;
 import javax.swing.*;
 
 public class Calculator extends JFrame {
+	//
 	private String chkInput; // 현재 연산을 구분할 체크 값 변수 (덧셈인지, 뺄셈인지 구분 하기 위한 변수)
 	private int numOne, sum, total, sosu;
 	private int count = 0, inputChk = 0; // 체크값 변수(count), 연산을 구분할 변수 (덧셈인지, 뺄셈인지 구분 하기 위한 변수)
