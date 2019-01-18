@@ -5,7 +5,6 @@ public class Ex {
 		System.out.println("hello");
 		
 		System.out.println("ggg");
-		System.out.println("assdasdad");
 		System.out.println("20190118");
 
 	}
